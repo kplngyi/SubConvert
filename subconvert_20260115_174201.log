@@ -1,0 +1,26 @@
+2026-01-15 17:42:01,650 - INFO - ==================================================
+2026-01-15 17:42:01,650 - INFO - 开始获取机场订阅...
+2026-01-15 17:42:01,650 - INFO - ==================================================
+2026-01-15 17:42:01,650 - ERROR - 解析 AIRPORTS 配置失败: Expecting value: line 1 column 2 (char 1)
+2026-01-15 17:42:01,650 - INFO - 
+共配置了 0 个机场
+2026-01-15 17:42:01,650 - INFO - 
+添加本地节点...
+2026-01-15 17:42:01,650 - INFO - 添加了 2 个本地节点
+2026-01-15 17:42:01,650 - INFO - 
+==================================================
+2026-01-15 17:42:01,650 - INFO - 合并完成！总共 2 个节点
+2026-01-15 17:42:01,650 - INFO - ==================================================
+2026-01-15 17:42:01,650 - INFO - 
+生成 SubConvert 转换链接...
+2026-01-15 17:42:01,650 - INFO - 
+==================================================
+2026-01-15 17:42:01,650 - INFO - Clash: http://65.49.200.39:25500/sub?target=clash&url=dmxlc3M6Ly94eHh4eCNub2RlMQp2bWVzczovL3h4eHh4I25vZGUy&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini&emoji=true&list=false&udp=true&tfo=false&scv=false&fdn=false&sort=false
+2026-01-15 17:42:01,650 - INFO - --------------------------------------------------
+2026-01-15 17:42:01,650 - INFO - V2Ray: http://65.49.200.39:25500/sub?target=v2ray&url=dmxlc3M6Ly94eHh4eCNub2RlMQp2bWVzczovL3h4eHh4I25vZGUy&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini&emoji=true&list=false&udp=true&tfo=false&scv=false&fdn=false&sort=false
+2026-01-15 17:42:01,651 - INFO - --------------------------------------------------
+2026-01-15 17:42:01,651 - INFO - Surge: http://65.49.200.39:25500/sub?target=surge&url=dmxlc3M6Ly94eHh4eCNub2RlMQp2bWVzczovL3h4eHh4I25vZGUy&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini&emoji=true&list=false&udp=true&tfo=false&scv=false&fdn=false&sort=false
+2026-01-15 17:42:01,651 - INFO - --------------------------------------------------
+2026-01-15 17:42:01,651 - INFO - Surfboard: http://65.49.200.39:25500/sub?target=surfboard&url=dmxlc3M6Ly94eHh4eCNub2RlMQp2bWVzczovL3h4eHh4I25vZGUy&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini&emoji=true&list=false&udp=true&tfo=false&scv=false&fdn=false&sort=false
+2026-01-15 17:42:01,651 - INFO - --------------------------------------------------
+2026-01-15 17:42:01,651 - INFO - ==================================================
