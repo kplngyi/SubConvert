@@ -1,0 +1,30 @@
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 环境变量
+.env
+.env.local
+
+# 日志文件
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# 配置文件（包含敏感信息）
+config/airpots.json
